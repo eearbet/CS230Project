@@ -76,7 +76,7 @@ public class Arbet2LabFrame extends javax.swing.JFrame {
             }
         });
 
-        AlterOrgButton.setText("Alter Organization Name");
+        AlterOrgButton.setText("Change Organization Name");
         AlterOrgButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 AlterOrgButtonActionPerformed(evt);

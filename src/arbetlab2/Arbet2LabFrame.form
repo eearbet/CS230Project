@@ -186,7 +186,7 @@
     </Component>
     <Component class="javax.swing.JButton" name="AlterOrgButton">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Alter Organization Name"/>
+        <Property name="text" type="java.lang.String" value="Change Organization Name"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AlterOrgButtonActionPerformed"/>
